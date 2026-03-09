@@ -1,43 +1,8 @@
-# IELTS Writing Practice - Page [PAGE_NUMBER]
+# IELTS Writing Practice - Page [PAGE_NUMBER] (Task 2)
 
 **Date:** YYYY-MM-DD
 **Book:** [Book Name]
 **Time Spent:** __ minutes
-
----
-
-## Task 1
-
-### Question
-> [Copy the question here]
-
-### Word Count
-Target: 150+ words | Actual: __ words
-
-### My Response
-```
-[Write your Task 1 response here]
-```
-
-### Example Response
-```
-[Write your example response here]
-```
-
-### Self-Evaluation (Band 1-9)
-
-| Criteria | Score | Notes |
-|----------|-------|-------|
-| Task Achievement | /9 | |
-| Coherence & Cohesion | /9 | |
-| Lexical Resource | /9 | |
-| Grammatical Range & Accuracy | /9 | |
-| **Estimated Overall** | **/9** | |
-
-### Useful Vocabulary & Phrases
--
--
--
 
 ---
 
@@ -85,7 +50,7 @@ Target: 250+ words | Actual: __ words
 
 ---
 
-## Feedback & Review
+## Evaluation
 
 ### Strengths
 -
@@ -93,10 +58,18 @@ Target: 250+ words | Actual: __ words
 ### Areas for Improvement
 -
 
-### Model Answer Notes
-[Key takeaways from the model answer if available]
+### Corrections
 
-### Action Items for Next Practice
+| Original | Corrected |
+|----------|-----------|
+| | |
+
+### Suggestions to Reach Next Band
+-
+
+---
+
+## Action Items for Next Practice
 - [ ]
 - [ ]
 
@@ -104,18 +77,13 @@ Target: 250+ words | Actual: __ words
 
 ## Reference Materials
 
-### Task 1 Useful Phrases
-- Overview: "Overall, it is clear that..."
-- Describing trends: "increased significantly / declined gradually / remained stable"
-- Comparisons: "in contrast to / compared with / whereas"
-
 ### Task 2 Useful Phrases
 - Introduction: "This essay will discuss... / It is often argued that..."
 - Body paragraphs: "Firstly / Furthermore / On the other hand / In addition"
 - Conclusion: "In conclusion / To summarize / Taking everything into account"
 
 ### Common Mistakes to Avoid
-- [ ] Missing overview in Task 1
 - [ ] Not addressing all parts of the question
 - [ ] Repetitive vocabulary
 - [ ] Run-on sentences
+- [ ] Weak thesis statement

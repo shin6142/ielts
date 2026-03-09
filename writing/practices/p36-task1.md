@@ -1,4 +1,4 @@
-# IELTS Writing Practice - Page 36-37
+# IELTS Writing Practice - Page 36 (Task 1)
 
 **Date:** 2026-03-08
 **Book:** [Book Name]
@@ -17,15 +17,17 @@ Target: 150+ words | Actual: ~140 words
 ### My Response
 ```
 The figures show the comparison of a facility in 1980 and how it is renovated in 2020.
-During the 40 years, some got more rooms that it used to do, other functions were replaced with new ones.Firstly,the space of car park aria and cafe became double. Instead of having trees outside of the building, they got rid of the trees outside of the building and installed parking lots. Cafe aria is expanded to the space where the reception was placed. Secondly, MEETING ROOM #1 and Table Tennis room is no longer there since. MEETING ROOM #1 was replaced by the workout room and where Table Tennis room was placed was taken over by changing rooms. On the other hand, BASKETBALL coats and the seating are still localted in the same spot as 1980.
+During the 40 years, some got more rooms that it used to do, other functions were replaced with new ones.Firstly,the space of car park aria and cafe became double. Instead of having trees outside of the building, they got rid of the trees outside of the building and installed parking lots. Cafe aria is expanded to the space where the reception was placed. Secondly, MEETING ROOM #1 and Table Tennis room is no longer there since. MEETING ROOM #1 was replaced by the workout room and where Table Tennis room was placed was taken over by changing rooms. On the other hand, BASKETBALL coats and the seating are still localted in the same spot as 1980. In addtion, although there were originally two meeting roomsin the top right corner in 1980, they were converted into a workout room and a smaller meeting room.
 
 ```
 
 ### Example Response
 ```
-The diagrams compares the changes that a leisure centre went through from 1980 to 2020. Overall, the facility underwent significant changes, including the expansion of the parking area and chnaging room, the relocation of the reception, and it reporposing some of the some rooms. 
+The diagrams compares the changes that a leisure centre went through from 1980 to 2020. Overall, the facility underwent significant changes, including the expansion of the parking area and chnaging room, the relocation of the reception, and it reporposing some of the some rooms.
 
-There were some trees outside of the facility in 1980, but more than half of them were renovated in order to exapnd the parking space. Furthermore, the reception in the cafe situated in the top left corner in 1980 was relocated to the entrance. As a result, the cafe became more spacious in 2020, with an increase in the amount of seating space. 
+There were some trees outside of the facility in 1980, but more than half of them were renovated in order to exapnd the parking space. Furthermore, the reception in the cafe situated in the top left corner in 1980 was relocated to the entrance. As a result, the cafe became more spacious in 2020, with an increase in the amount of seating space. In addition, although there were originally two meeting rooms in the top right corner in 1980, they were converted into a workout room and a smaller meeting room.
+
+There were table tennis tables in the bottom left corner in 1980, but they were later removed to make changing rooms for men and women larger. The facility had three basketball courts in the right bottom corner; however one of them was converted to a futsl court, while seating remained unchanged.
 ```
 
 ### Self-Evaluation (Band 1-9)
@@ -47,7 +49,7 @@ There were some trees outside of the facility in 1980, but more than half of the
 
 ---
 
-## Task 1 Evaluation
+## Evaluation
 
 ### Strengths
 - Attempts to organize information logically with discourse markers (Firstly, Secondly, On the other hand)
@@ -94,48 +96,7 @@ There were some trees outside of the facility in 1980, but more than half of the
 
 ---
 
-## Task 2
-
-### Question
-> [Copy the question here]
-
-### Word Count
-Target: 250+ words | Actual: __ words
-
-### Planning (5 min)
-**Essay Type:** [ ] Opinion [ ] Discussion [ ] Problem-Solution [ ] Two-part question
-
-**Outline:**
-- Introduction:
-- Body 1:
-- Body 2:
-- Conclusion:
-
-### My Response
-```
-[Write your Task 2 response here]
-```
-
-### Self-Evaluation (Band 1-9)
-
-| Criteria | Score | Notes |
-|----------|-------|-------|
-| Task Response | /9 | |
-| Coherence & Cohesion | /9 | |
-| Lexical Resource | /9 | |
-| Grammatical Range & Accuracy | /9 | |
-| **Estimated Overall** | **/9** | |
-
-### Useful Vocabulary & Phrases
--
--
--
-
----
-
-## Feedback & Review
-
-### Action Items for Next Practice
+## Action Items for Next Practice
 - [ ] Practice writing clear overview statements for Task 1
 - [ ] Review spelling of common words: area, located, courts
 - [ ] Practice subject-verb agreement rules
@@ -150,11 +111,6 @@ Target: 250+ words | Actual: __ words
 - Overview: "Overall, it is clear that..."
 - Describing trends: "increased significantly / declined gradually / remained stable"
 - Comparisons: "in contrast to / compared with / whereas"
-
-### Task 2 Useful Phrases
-- Introduction: "This essay will discuss... / It is often argued that..."
-- Body paragraphs: "Firstly / Furthermore / On the other hand / In addition"
-- Conclusion: "In conclusion / To summarize / Taking everything into account"
 
 ### Common Mistakes to Avoid
 - [ ] Missing overview in Task 1

@@ -36,7 +36,13 @@ To sum up with, even though there are a few disadvantages of relying on meat pro
 
 ### Example Response
 ```
-[Write your example response here]
+Some argue that meat cunsumption will not only harm people's health, but also have an adverse effect on the environment. However I disagree with this notion because meat is essetial for humen to maintain their body strong and its negative impact on the environment can be reduced.
+
+I disagree with this notion because meat containes protein which is essential for human to strengthen their bodies, and the negative impacts of meat production can be reduced.
+
+Some people may state that eating meat leads to a deteriolation in health. It is sometimes pointed out that an increace in meat consumption may have a correlation to some serious deseases and even mortality risks. For instance, excessive red meet consumption may lead to heart desease and higher choresterol. Additionally, the process of raising livestock usually requires a vast stretches of land. In order to graze cattle, 
+
+
 ```
 
 ### Self-Evaluation (Band 1-9)

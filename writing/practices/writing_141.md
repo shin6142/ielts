@@ -1,0 +1,22 @@
+Lately, it is normalized to utilize animals to test new developed medicines' effects before putting into practice for human. Some people argue that it is neccesally for human's well being, while others oppose to this and claim that animal experiments should be banned. I personally beleive that we should no longer take advantages of using animals for human's convinience.
+
+People who justify this notion may point out that animal experiments brings human benefits.Firstly, we can reduce the risk of using developing products, which helps human to avoid unexpected side effects. Beside, testing the medical products on animals improves the quality of investigations. For instance, small animals including mice and rats are easy to be produced and raised so that reserchers can have a lot of numbers of test cases in short periods.
+
+Even though animal experiments is beneficial for human to improve underdeveloped medicines, there are people who aruge its drawbacks. It is considered as cruel act to take other species' life just for human's convinience. There are a lot of test cases where animals died after suffering from the effects of medicine.
+Human should replace testing medecines with animal with more moral way to stop extracting from other species.
+
+In conclusion, I claim that it should be stopped to take advantages of using animal as a tool to conduct harmful test with just for human's well-being. Safty and cost efficiency are not the aspects to justify medicine production with using animals, since human does not have any lights to sacrifice other species.
+
+---
+
+## Improved Version
+
+**Nowadays, it has become common practice** ~~Lately, it is normalized~~ to use animals to test the effects of **newly developed** ~~new developed~~ medicines before **applying them to humans** ~~putting into practice for human~~. Some people argue that this is **necessary** ~~neccesally~~ for human well-being, while others **oppose this** ~~oppose to this~~ and claim that animal experiments should be banned. I personally **believe** ~~beleive~~ that we should no longer **take advantage** ~~take advantages~~ of ~~using~~ animals for human **convenience** ~~convinience~~.
+
+People who **support animal testing** ~~justify this notion~~ may point out that **it brings** ~~animal experiments brings~~ **significant** benefits **to humans** ~~human~~. **Firstly** ~~.Firstly~~, we can reduce the risk of using **untested** ~~developing~~ products, which helps **humans** ~~human to~~ avoid unexpected side effects. **Besides** ~~Beside~~, testing medical products on animals improves the quality of **research** ~~investigations~~. For instance, small animals **such as** ~~including~~ mice and rats are easy **to breed and raise** ~~to be produced and raised~~, **allowing researchers** ~~so that reserchers can have~~ **to conduct a large number of** ~~a lot of numbers of~~ test cases in short periods.
+
+**However, even though** ~~Even though~~ animal experiments **are** ~~is~~ beneficial for **developing** ~~human to improve underdeveloped~~ medicines, **many people argue against them due to ethical concerns** ~~there are people who aruge its drawbacks~~. It is considered **a** cruel act to take other species' **lives** ~~life~~ **solely** ~~just~~ for human **convenience** ~~convinience~~. There are **numerous cases** ~~a lot of test cases~~ where animals **have died** ~~died~~ after suffering from the effects of **experimental medicine** ~~medicine~~. **Therefore, humans** ~~Human~~ should replace **animal testing** ~~testing medecines with animal~~ with more **ethical alternatives** ~~moral way~~ to stop **exploiting** ~~extracting from~~ other species.
+
+In conclusion, I **believe** ~~claim~~ that **we should stop using** ~~it should be stopped to take advantages of using~~ **animals** ~~animal~~ as **tools** ~~a tool~~ to conduct harmful **tests** ~~test with~~ **merely** ~~just~~ for human well-being. **Safety** ~~Safty~~ and cost efficiency are not **sufficient justifications** ~~the aspects to justify~~ **for using animals in medicine production** ~~medicine production with using animals~~, since **humans do not have the right** ~~human does not have any lights~~ to sacrifice other species **for their own benefit** ~~.~~.
+
+**(Estimated Band Score: 7.0)**

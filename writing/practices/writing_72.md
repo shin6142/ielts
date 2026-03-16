@@ -14,6 +14,45 @@ In conclusion, the charts revealed that preferences for some sandwiches varied s
 
 ---
 
+## Evaluation
+
+### Overall Band Estimate: 5.5/9
+
+### Detailed Scores
+
+| Criteria | Band | Feedback |
+|----------|------|----------|
+| Task Achievement | 6.0/9 | Key features covered with data. Overview attempted. Some inaccurate information (Grilled Cheese vs Veggie Sandwich confusion). |
+| Coherence & Cohesion | 5.5/9 | Paragraph structure present but two conclusions written. Some repetition between paragraphs. Cohesive devices used but mechanical. |
+| Lexical Resource | 5.0/9 | Multiple spelling errors (Firstlty, preffered, amoung, harf, quater, parchased, diffrence, carts). Limited vocabulary range. |
+| Grammatical Range & Accuracy | 5.0/9 | Subject-verb agreement errors throughout (compares, differs, account, differs). Article issues. |
+
+### Strengths
+- Good use of data and percentages
+- Attempts to compare and contrast
+- Clear structure with introduction, body, and conclusion
+
+### Areas for Improvement
+- Check subject-verb agreement: plural subjects need plural verbs
+- Spelling: review common words before submitting
+- Avoid writing two conclusions
+- Be accurate with data interpretation
+
+### Key Corrections
+- "compares" → **compare** (plural subject)
+- "constituit" → **constitute**
+- "Firstlty" → **Firstly**
+- "account" → **accounts**
+- "preffered" → **preferred**
+- "Amoung" → **Among**
+- "harf" → **half**
+- "quater" → **quarter**
+- "parchased" → **purchased**
+- "diffrence" → **difference**
+- "carts" → **charts**
+
+---
+
 ## Improved Version
 
 The pie charts **compare** ~~compares~~ the percentages of sandwich choices in a **particular** ~~certain~~ sandwich shop by gender. It can be seen that some kinds of **sandwiches** ~~sandwich~~ **constitute** ~~constituit~~ similar percentages **in** ~~of~~ both **charts** ~~of the charts~~, **while** others are **significantly** ~~apparently~~ different between men's and **women's charts** ~~women' chart~~.

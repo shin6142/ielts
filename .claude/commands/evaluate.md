@@ -1,17 +1,26 @@
-Evaluate the user's IELTS writing response based on the principles.
+Evaluate the user's IELTS writing response based on the official IELTS band descriptors.
 
 ## Instructions
 
-1. Read the current practice file that the user has open or specified
-2. Find the "### My Response" section(s)
-3. Read the principles from `/Users/shin.yamaga/ielts/writing/principles/` directory
-4. Evaluate the writing based on:
-   - The 8 steps to Band 8 (task2-8-steps-to-band8.md)
-   - Official IELTS criteria: Task Achievement/Response, Coherence & Cohesion, Lexical Resource, Grammatical Range & Accuracy
+1. First, use the Glob tool to find all markdown files in `writing/practices/` directory
+2. Use the AskUserQuestion tool to ask the user which file they want to evaluate, showing the available files as options
+3. Read the selected file and find the "# My Response" or "## My Response" section(s)
+4. Read the evaluation principles from `/Users/shin.yamaga/ielts/writing/evaluation_principles.md`
+5. Evaluate the writing based on the four official IELTS criteria:
+   - Task Achievement/Response (25%)
+   - Coherence & Cohesion (25%)
+   - Lexical Resource (25%)
+   - Grammatical Range & Accuracy (25%)
+6. Use the Edit tool to append the evaluation and improved version to the selected markdown file
 
-## Output Format
+## Output to Append to File
 
-Provide evaluation in this format:
+Append the following sections to the end of the selected file:
+
+```
+---
+
+## Evaluation
 
 ### Overall Band Estimate: X.0/9
 
@@ -30,8 +39,14 @@ Provide evaluation in this format:
 ### Areas for Improvement
 - [List specific issues with examples from the text]
 
-### Corrections
-[Show specific corrections with original → corrected format]
+### Key Corrections
+- [Show key corrections with original → corrected format]
 
-### Suggestions to Improve Band Score
-[Actionable tips to reach the next band level]
+---
+
+## Improved Version
+
+[Write the full improved version of the response with **bold** for corrections and ~~strikethrough~~ for original errors]
+
+**(Estimated Band Score: X.0)**
+```

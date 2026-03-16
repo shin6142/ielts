@@ -13,6 +13,44 @@ In conclusion, there are some drawbacks of robots inventions while they can elim
 
 ---
 
+## Evaluation
+
+### Overall Band Estimate: 5.5/9
+
+### Detailed Scores
+
+| Criteria | Band | Feedback |
+|----------|------|----------|
+| Task Response | 6.5/9 | Both views discussed with clear opinion. Good use of examples (restaurants, supermarkets, household chores). However, the essay focuses more on benefits than drawbacks. |
+| Coherence & Cohesion | 6.0/9 | Clear paragraph structure. Good use of cohesive devices (However, Moreover, In conclusion). Logical progression. |
+| Lexical Resource | 5.5/9 | Spelling errors (restraurants, probrem, elimminates, probrems). Some good vocabulary attempts (automate, redundant). |
+| Grammatical Range & Accuracy | 5.0/9 | Errors: "can enables", "battery last", "Those automation", "make" vs "makes". Uncountable nouns used incorrectly (works, labours). |
+
+### Strengths
+- Clear position maintained throughout
+- Good use of specific examples
+- Variety of sentence structures attempted
+- Logical organization
+
+### Areas for Improvement
+- Modal + base form: "can enable" not "can enables"
+- Plural agreement: "batteries last" not "battery last"
+- Uncountable nouns: "work" and "labour" (no 's')
+- Spelling: restaurants, problems, eliminates
+
+### Key Corrections
+- "restraurants" → **restaurants**
+- "can enables" → **can enable**
+- "Those automation" → **This automation**
+- "works" → **work** (uncountable)
+- "labours" → **labour** (uncountable)
+- "battery last" → **batteries last**
+- "probrem" → **problem**
+- "elimminates" → **eliminates**
+- "probrems" → **problems**
+
+---
+
 ## Improved Version
 
 Some people **believe** ~~mention~~ that robots will play important roles **in helping humans live** ~~to help human to live~~ better in **future society** ~~the future society~~. In contrast, others oppose this notion and state that **robotic evolution** ~~robot evolution~~ will **negatively impact society** ~~impact on society negatively~~. In my opinion, society **cannot** ~~can not~~ progress without relying on **robots' capabilities** ~~robots capabilities~~.

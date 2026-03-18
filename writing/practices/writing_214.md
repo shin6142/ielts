@@ -1,12 +1,3 @@
-# Question
-In comtemporary society, there many countries are executing the death penalty to pusnish pople who commited serious crime, while some of the developed countries abolished it. In my opinion, more countires should no longer use that kind of punishment because it is insufficient to reduce crime rates and help victims and society.
-
-Firstly, the death penalty is not sufficient as a serious crime prevention since the reason why ordinary people do no do illegal acts is not the fear of penalty but their moral. Those who are inclined to commit crime are too upset to remember the punishment executed to them afterwards. There must be other ways to prevent people from committing crime, such as suffcient moral education and financial supports. 
-
-Second reason why that the death penalty should be stop is that it does not heal victims and their families. Even if the crimer is killed by the penalty, the damage that victims got is not healed completely, their sadness of loss will be remaind forever. Rather than killing the crimer, countries should invest on supporting victims and thier families mental health so that they overcome their loss and live the same life as they used do. 
-
-To sum up, I argue that the death penalty should be no longer executed because it does not reduce the number of serious crime and does not benefits the victims of crime. Countires allowing the death penalty should reconsider its effects to people who intend to behave illegal acts and those who suffer from crime.
-
 # My Response
 
 In comtemporary society, there many countries are executing the death penalty to pusnish pople who commited serious crime, while some of the developed countries abolished it. In my opinion, more countires should no longer use that kind of punishment because it is insufficient to reduce crime rates and help victims and society.
